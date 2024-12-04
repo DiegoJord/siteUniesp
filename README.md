@@ -13,16 +13,26 @@ escolhida, etc, no caso do site UNIESP foi usado React Javascript.
 As principais pastas desse projeto são:
 
 data: pasta onde criamos o arquivo db.json, arquivo onde está o banco de dados fake com todas as notícias.
+
 node modules: pasta onde estarão todos os arquivos criados pelo npm install.
+
 public: pasta onde armazenamos as imagens estáticas do site.
+
 src: uma das pastas mais importantes onde damos origem a outras pastas, arquivos e ao componente pai, que receberá
 import de outros componentes filhos.
+
 assets: pasta criada dentro de "src" para armazenar todos os assets privados do site.
+
 components: pasta onde criamos os componentes filhos do site, que serão importados dentro do componente pai.
+
 pages: pasta criada para armazenar todas as páginas do site, todas estarão linkadas na barra de navegação.
+
 App.jsx: componente pai onde importaremos todos os componentes filhos do site e as bibliotecas usadas
+
 .gitignore: arquivo para o git ignorar tudo o que queremos.
+
 package.json: arquivo json onde estarão todas as dependencias e scripts do projeto.
+
 README.md: arquivo para ler, onde documentamos o projeto.
 
 Bibliotecas utilizadas no projeto:

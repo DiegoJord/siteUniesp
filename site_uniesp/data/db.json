@@ -1,0 +1,19 @@
+{
+  "noticias": [
+    {
+      "titulo": "Lançamento de novo modelo de smartphone promete revolucionar o mercado",
+      "texto": "A empresa XYZ anunciou o lançamento de seu novo modelo de smartphone, o XYZ Pro Max. Com uma tela de 6,7 polegadas e uma câmera de 200 megapixels, o aparelho promete ser um dos mais avançados da atualidade. Especialistas afirmam que o modelo pode mudar a forma como os consumidores interagem com a tecnologia móvel, graças à sua velocidade e inovação.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Estudo revela aumento da biodiversidade em áreas protegidas no Brasil",
+      "texto": "Um estudo publicado recentemente por uma equipe de pesquisadores brasileiros revelou que áreas de preservação ambiental no Brasil apresentaram um aumento significativo na biodiversidade nos últimos dez anos. O relatório destaca a importância das unidades de conservação como um refúgio essencial para diversas espécies ameaçadas, além de reforçar a necessidade de expandir essas áreas para garantir a proteção de mais ecossistemas."
+    },
+    {
+      "id": "3",
+      "titulo": "Governo anuncia novas medidas para combater a inflação no país",
+      "texto": "O Ministério da Economia divulgou um pacote de medidas econômicas com o objetivo de reduzir a inflação que afeta o poder de compra da população. Entre as principais ações estão o aumento da taxa de juros e incentivos fiscais para setores produtivos. O governo espera que as medidas ajudem a estabilizar a economia nos próximos meses, mas os especialistas alertam para os desafios de longo prazo."
+    }
+  ]
+}
